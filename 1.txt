@@ -1,2 +1,1 @@
-this class
 this is new 
